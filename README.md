@@ -2,7 +2,7 @@
 
 **Check CSV data contracts. Inspect failures. Share an offline report.**
 
-[![CI](https://github.com/br413/data-quality-observability/actions/workflows/ci.yml/badge.svg)](https://github.com/br413/data-quality-observability/actions/workflows/ci.yml)
+[![CI](https://github.com/charlesmulwa310/data-quality-observability/actions/workflows/ci.yml/badge.svg)](https://github.com/charlesmulwa310/data-quality-observability/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](pyproject.toml)
 [![MIT license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -127,7 +127,7 @@ The CLI and demo do not require Airflow.
 
 ## Help shape the next release
 
-Try DQO on a small dataset and [tell us what blocked you](https://github.com/br413/data-quality-observability/issues/new/choose).
+Try DQO on a small dataset and [tell us what blocked you](https://github.com/charlesmulwa310/data-quality-observability/issues/new/choose).
 Include a tiny anonymized example, the command you ran, and the result you expected.
 
 We welcome fixes, documentation improvements, and focused tests. Start with
@@ -137,4 +137,4 @@ and larger-file execution. These are planned, not released features.
 
 If DQO is useful to you, a star helps others discover it.
 
-MIT licensed. Built and maintained by [br413](https://github.com/br413).
+MIT licensed. Built and maintained by [charlesmulwa310](https://github.com/charlesmulwa310).
